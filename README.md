@@ -1,6 +1,6 @@
 ## Hi! there, I am Pruthviraj Pudari 👋
 
-I am full stack engineer primarly focusing on Java programming language, SpringBoot, and ReactJs. I build distributed, reliable enterprise level system for different domains like Telecommunication, Insurance and Banking.
+I am a full stack engineer primarly focusing on Java programming language, SpringBoot, and ReactJs. I build distributed, reliable enterprise level system for different domains like Telecommunication, Insurance and Banking.
 
 <picture>
   <source
