@@ -22,6 +22,7 @@ I am a full stack engineer primarly focusing on Java programming language, Sprin
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandaripruthviraj&stats_format=bytes)
+<div>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats</div>
 
 <!--
 **pandaripruthviraj/pandaripruthviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
